@@ -20,6 +20,9 @@
 
 [//]: # (3. Why each one of them is needed ?)
 
+
+![Spring Boot Security Architecture](./image.jpg)
+
 - To support various mechanism of authentication, Spring uses AuthenticationProvider concept.
 
 - Each implementation of Provider is responsible for performing its own
